@@ -1,9 +1,9 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "waitFor": "onCreateCommand",
-  "onCreateCommand": "",
+  "onCreateCommand": "rm -rf /workspaces/Hugo/public && hugo -b /",
   "postCreateCommand": "",
-  "postAttachCommand": "",
+  "postAttachCommand": "hugo server -D --appendPort=false --baseURL=https://$CODESPACE_NAME-49490.preview.app.github.dev/ -p 49490",
   "customizations": {
     "vscode": {
       "extensions": [
@@ -20,7 +20,18 @@
         "ms-vsliveshare.vsliveshare",
         "bierner.markdown-preview-github-styles",
         "pkief.material-product-icons",
-        "christian-kohler.path-intellisense"
+        "christian-kohler.path-intellisense",
+        "golang.go",
+        "golang.go-snippets",
+        "golang.go-tools",
+        "golang.hugo-snippets",
+        "golang.hugo-theme-snippets",
+        "golang.hugo-theme-tools",
+        "golang.hugo-tools",
+        "golang.hugo-vscode-snippets",
+        "golang.hugo-vscode-theme-snippets",
+        "golang.hugo-vscode-theme-tools",
+        "golang.hugo-vscode-tools"
       ],
       "settings": {
         "files.autoSave": "onFocusChange",
