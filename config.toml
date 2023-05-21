@@ -1,0 +1,61 @@
+baseurl = "https://blog.postrausch.tech"
+title = "Postrausch"
+theme = "hugo-coder"
+languagecode = "de"
+defaultcontentlanguage = "de"
+dateFormat = "2 January 2006"
+
+pagenate = 20
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Henry Rausch"
+  info = "Fachinformatiker für Systemintegration"
+  description = "Automatisiere die Zukunft!"
+  keywords = "blog,developer,persona, Systemintegrator, Cloud"
+  #avatarurl = "images/avatar.jpg"
+  #gravatar = "john.doe@example.com"
+
+  impressum = "https://postrausch.tech/impressum"
+  datenschutz = "https://postrausch.tech/datenschutz"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+  touchIcon = "/img/apple-touch-icon.png"
+
+  since = 2021
+
+  commit = "https://github.com/HRA42/blog/tree/"
+
+  enableTwemoji = true
+
+  colorScheme = "dark"
+  hidecolorschemetoggle = true
+
+  # Series see also post count
+  maxSeeAlsoItems = 3
+
+  [taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+  # Social links
+  [[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/HRA42/"
+
+  # Menu links
+  [[menu.main]]
+  name = "Posts"
+  weight = 1
+  url  = "posts/" 
+  [[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
