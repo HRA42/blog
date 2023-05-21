@@ -3,7 +3,7 @@ title = "Postrausch"
 theme = "hugo-coder"
 languagecode = "de"
 defaultcontentlanguage = "de"
-dateFormat = "2 January 2006"
+dateFormat = "01.01.2006"
 
 pagenate = 20
 
@@ -15,7 +15,7 @@ style = "github-dark"
   info = "Fachinformatiker für Systemintegration"
   description = "Automatisiere die Zukunft!"
   keywords = "blog,developer,persona, Systemintegrator, Cloud"
-  #avatarurl = "images/avatar.jpg"
+  avatarurl = "/media/Architekt.gif"
   #gravatar = "john.doe@example.com"
 
   impressum = "https://postrausch.tech/impressum"
