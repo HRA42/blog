@@ -59,3 +59,21 @@ style = "github-dark"
   name = "Über mich"
   weight = 2
   url = "about/"
+
+# Privacy
+[privacy]
+      [privacy.disqus]
+            disable = true
+      [privacy.youtube]
+            privacyEnhanced = true
+            relatedVideos = false
+      [privacy.googleAnalytics]
+            disable = true
+      [privacy.instagram]
+            simple = true
+      [privacy.twitter]
+            enableDNT = true
+            simple = true
+      [privacy.vimeo]
+            enableDNT = true
+            simple = true
