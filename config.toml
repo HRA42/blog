@@ -10,6 +10,9 @@ pagenate = 20
 [markup.highlight]
 style = "github-dark"
 
+[markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   author = "Henry Rausch"
   info = "Fachinformatiker für Systemintegration"
@@ -25,8 +28,6 @@ style = "github-dark"
   touchIcon = "/img/apple-touch-icon.png"
 
   since = 2021
-
-  commit = "https://github.com/HRA42/blog/tree/"
 
   enableTwemoji = true
 
