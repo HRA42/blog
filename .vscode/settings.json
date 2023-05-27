@@ -1,0 +1,7 @@
+{
+    "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+        "funny",
+        "pre-trained",
+        "transformer"
+    ]
+}
