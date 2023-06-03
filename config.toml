@@ -3,7 +3,6 @@ title = "Postrausch"
 theme = "hugo-coder"
 languagecode = "de"
 defaultcontentlanguage = "de"
-dateFormat = "01.01.2006"
 
 pagenate = 20
 
