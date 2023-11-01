@@ -20,7 +20,8 @@ author = "Henry Rausch"
 ## Wer bin ich?
 - Mein Name ist Henry Rausch.
 - Ich arbeite als Fachinformatiker für Systemintegration in Magdeburg.
-- Im verlauf Liste ich alle meine Interessen auf und was ich so mache.
+- Im verlauf Liste ich alle meine Interessen auf und was mich beschäftigt.
+- Auf diesem Blog möchte ich über Technologien, Filme, Serien und Computerspiele schreiben.
 
 ---
 
@@ -41,6 +42,9 @@ author = "Henry Rausch"
 - [V wie Vendetta](https://www.imdb.com/title/tt0434409/)
 - [Zurück in die Zukunft](https://www.imdb.com/title/tt0088763/)
 - [Steve Jobs: Die Milliarden-Dollar-Idee](https://www.imdb.com/title/tt2080374)
+- [1984](https://www.imdb.com/title/tt0087803)
+- [Robocop](https://www.imdb.com/title/tt0093870)
+- [Bladerunner](https://www.imdb.com/title/tt0083658)
 
 ---
 
@@ -63,6 +67,7 @@ author = "Henry Rausch"
 - [Gute Nacht Österreich](https://www.imdb.com/title/tt15128748)
 - [Sherlock](https://www.imdb.com/title/tt1475582)
 - [BoJack Horseman](https://www.imdb.com/title/tt3398228)
+- [South Park](https://www.imdb.com/title/tt0121955)
 
 ---
 
@@ -77,18 +82,20 @@ author = "Henry Rausch"
 ## Meine Lieblingsspiele sind...
 - [Cyberpunk 2077](https://www.cyberpunk.net/de/de/)
 - [The Witcher 3](https://thewitcher.com/de/witcher3)
-- [Apex Legends](https://www.ea.com/de-de/games/apex-legends)
-- [Fortnite](https://www.epicgames.com/fortnite/de/home)
 - [Diablo 2 Resurrected](https://diablo2.blizzard.com/de-de/)
 - [Diablo 3](https://eu.diablo3.com/de-de/)
-- [Fifa 23](https://www.ea.com/de-de/games/fifa/fifa-23)
+- [Diablo 4](https://diablo4.blizzard.com/de-de/)
+- [FC 24](https://www.ea.com/de-de/games/ea-sports-fc/fc-24)
+- [RoboCop: Rogue City](https://robocop-roguecity.com/de)
+- [Satisfactory](https://www.satisfactorygame.com/)
+- [Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/)
 
 ### SteamDB
-**My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561198049405619/?cc=eu))*
-* **Wert:** 2003€
-* **Spiele im Besitzt:** 308
-* **Spiele gespielt:** 258 *(83%)*
-* **Gesamt Spielzeit:** 8,126.6h
+**Mein Steam Profil** *(von [SteamDB](https://steamdb.info/calculator/76561198049405619/?cc=eu))*
+* **Wert:** 2701€
+* **Spiele im Besitzt:** 389
+* **Spiele gespielt:** 314 *(80%)*
+* **Gesamt Spielzeit:** 8,552.5h
 
 ---
 
