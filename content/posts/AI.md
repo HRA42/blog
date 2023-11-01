@@ -9,11 +9,6 @@ tags = [
 author = "Henry Rausch"
 +++
 
-{{< notice note >}} 
-Falls dir der Artikel zu lange ist, findest du die Zusammenfassung von ChatGPT hier:   
-[ChatGPT Zusammenfassung](https://chat.openai.com/share/f4d1fa41-3253-451e-b9c4-cddfd7b2e654)
-{{< /notice >}}
-
 ## Was meine ich mit „Künstlicher Intelligenz“?
 
 Es ist dir vermutlich nicht entgangen, in den vergangenen Wochen und Monaten war überall die Rede von „GPT“. 
@@ -163,12 +158,6 @@ Ich nutze Suchmaschinen häufig, wenn noch keine genaue Vorstellung hab, was ich
 Beispielsweise suche ich oft nach Dokumentationen einem bestimmten Produkt, um mir einen Eindruck davon zu machen, ob ich es testen möchte und um zu erfahren, wie ich es effektiv einsetze.
 Dabei ist Künstliche Intelligenz zumindest im Moment häufig noch nicht hilfreich, da die Informationen entweder veraltet oder nicht vorhanden sind.
 Ich habe selten einen echten Mehrwert aus Zusammenfassungen von Webdokumenten ziehen können, da häufig zwar das große Ganze korrekt erfasst und zusammengefasst wird, aber die Detailinformationen nicht vorhanden sind.
-
-{{< notice warning >}}
-Am 24. Mai 2023 wurde von OpenAI eine verbesserte Version des Browser-Plugins vorgestellt. Inzwischen ist es die Dokumentation der Datev zu durchsuchen und die Fehlerbehebung zu finden.
-Du kannst dir den Chatverlauf hier ansehen:  
-[Chat Verlauf](https://chat.openai.com/share/ca1dea75-6d9c-47c0-8ac4-97076139b985)
-{{< /notice >}}
 
 Speziell, wenn man nach bestimmten Fehlermeldungen oder Programmlösungen sucht, sind normale Suchmaschinen deutlich effektiver, wenn der Fehler sehr spezifisch ist.
 Ich habe jeden Tag mit Fehlermeldungen in Datev zu tun, die häufig kryptisch sind, da die meisten Fehler nur eine Nummer tragen, zum Beispiel: 
