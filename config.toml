@@ -1,4 +1,4 @@
-baseurl = "https://blog.postrausch.tech"
+baseurl = "https://postrausch.tech"
 title = "Postrausch"
 theme = "hugo-coder"
 languagecode = "de"
