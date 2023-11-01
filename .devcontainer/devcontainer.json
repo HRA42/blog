@@ -1,7 +1,7 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "waitFor": "onCreateCommand",
-  "onCreateCommand": "rm -rf /workspaces/Hugo/public && hugo -b /",
+  "onCreateCommand": "",
   "postCreateCommand": "",
   "postAttachCommand": "hugo server -D --appendPort=false --baseURL=https://$CODESPACE_NAME-49490.preview.app.github.dev/ -p 49490",
   "customizations": {

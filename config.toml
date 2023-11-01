@@ -19,8 +19,8 @@ style = "github-dark"
   keywords = "blog,developer,persona, Systemintegrator, Cloud"
   avatarurl = "/media/lettering-lettering-sticker-this-or-that-morpheus.svg"
 
-  impressum = "https://postrausch.tech/impressum"
-  datenschutz = "https://postrausch.tech/datenschutz"
+  impressum = "/impressum"
+  datenschutz = "/datenschutz"
 
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
