@@ -9,12 +9,17 @@ tags = [
 author = "Henry Rausch"
 +++
 
+
+## Künstliche Intelligenz und Suchmaschinen - die Zukunft der Suche im Internet?
 {{< notice note >}} 
 Falls dir der Artikel zu lange ist, findest du die Zusammenfassung von [perplexity.ai](https://www.perplexity.ai/) hier:   
 [Perplexity Zusammenfassung](https://www.perplexity.ai/search/httpspostrausch-Fasse-den-.YxZjFHtQum8Kwz9CPhDxA?s=c)
 {{< /notice >}} 
 
-## Was meine ich mit „Künstlicher Intelligenz“?
+**Inhaltsverzeichnis:**
+{{% toc %}}
+
+### Was meine ich mit „Künstlicher Intelligenz“?
 
 Es ist dir vermutlich nicht entgangen, in den vergangenen Wochen und Monaten war überall die Rede von „GPT“. 
 Dabei handelt es sich um die „Generative Pre-trained Transformer“ Technik, eine Art künstlicher Intelligenz, die in der Lage ist, auf Basis von Texten, eigene Texte zu generieren. 
@@ -72,14 +77,14 @@ Für diesen Beitrag reicht eine oberflächliche Betrachtung aus. Wenn du weitere
 - [die Natur von GPT von John Nosta](https://johnnosta.medium.com/the-nature-of-gpt-hallucinations-and-the-human-mind-c1e6fd63643d)
 </details>
 
-## Implementierung in Suchmaschinen
+### Implementierung in Suchmaschinen
 
 Neeva AI, Google Bard, Microsoft Bing Chat und dutzende andere Unternehmen integrieren künstliche Intelligenz in ihre Suchmaschinen.
 Microsoft entwickelt auch Github Copilot, eine Programmierassistenz, die bei der Entwicklung von Github hilft. 
 Ähnliche Funktionen für Microsoft Office-Programme sind in Arbeit. 
 Ich habe viele dieser Dienste in den letzten Wochen und Monaten ausprobiert und möchte im Folgenden einige Produkte vorstellen:
 
-### Neeva AI
+#### Neeva AI
 
 {{< notice warning >}}
 ❗ Am 20. Mai 2023 gab Neeva die Einstellung ihrer Suchmaschine bekannt. 
@@ -128,7 +133,7 @@ Ob dies nun der Tatsache geschuldet ist, dass man das Original nicht versteht od
 
 Es ist schade um Neeva, die entwickelte Technologie sowie die 2 Petabyte an Webseiten, die seit 2019 gesammelt wurden.
 
-### Google Bard
+#### Google Bard
 
 Google Bard ist ein Chatprogramm, das von Google entwickelt wurde, um mit Microsofts Bing Chat zu konkurrieren.
 Die Anwendung basiert auf dem Pathway Language Model 2, kurz: PaLM2, das von Google entwickelt wurde und in etwa halb so leistungsfähig wie GPT4 ist.
@@ -152,7 +157,7 @@ Wenn du mehr über Google Bard erfahren möchtest, findest du das Video von c’
 
 {{< youtube 1TOFiUyZu8I >}}
 
-## Generative Künstliche Intelligenz als Zukunft der Suchmaschine?
+### Generative Künstliche Intelligenz als Zukunft der Suchmaschine?
 
 Jedes Unternehmen, das mit Suchmaschinen Geld verdient, ist im Moment dabei, die eine oder andere Form von Generativer Künstlicher Intelligenz in das jeweilige Produkt zu integrieren.
 Die Entwicklungen des letzten halben Jahres zeigt, dass es noch kein klares Modell gibt, wie man die klassische Suchmaschine am besten mit Künstlicher Intelligenz verbindet.

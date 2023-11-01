@@ -6,9 +6,12 @@ defaultcontentlanguage = "de"
 
 pagenate = 20
 
+[markup]
+[markup.tableOfContents]
+startLevel = 3
+endLevel = 5
 [markup.highlight]
 style = "github-dark"
-
 [markup.goldmark.renderer]
       unsafe = true
 
