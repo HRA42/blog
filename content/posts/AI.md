@@ -5,9 +5,14 @@ date = "2023-05-23"
 tags = [
         "Suchmaschinen",
         "Künstliche Intelligenz"
-]
+        ]
 author = "Henry Rausch"
 +++
+
+{{< notice note >}} 
+Falls dir der Artikel zu lange ist, findest du die Zusammenfassung von [perplexity.ai](https://www.perplexity.ai/) hier:   
+[Perplexity Zusammenfassung](https://www.perplexity.ai/search/httpspostrausch-Fasse-den-.YxZjFHtQum8Kwz9CPhDxA?s=c)
+{{< /notice >}} 
 
 ## Was meine ich mit „Künstlicher Intelligenz“?
 
