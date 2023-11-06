@@ -11,10 +11,6 @@ author = "Henry Rausch"
 
 
 ## Künstliche Intelligenz und Suchmaschinen - die Zukunft der Suche im Internet?
-{{< notice note >}} 
-Falls dir der Artikel zu lange ist, findest du die Zusammenfassung von [perplexity.ai](https://www.perplexity.ai/) hier:   
-[Perplexity Zusammenfassung](https://www.perplexity.ai/search/httpspostrausch-Fasse-den-.YxZjFHtQum8Kwz9CPhDxA?s=c)
-{{< /notice >}} 
 
 **Inhaltsverzeichnis:**
 {{% toc %}}
