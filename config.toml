@@ -54,9 +54,13 @@ style = "github-dark"
 
   # Menu links
   [[menu.main]]
-  name = "Posts"
+  name = "Blog"
   weight = 1
-  url  = "posts/" 
+  url  = "https://blog.postrausch.tech" 
+  [[menu.main]]
+  name = "neuer Blog (Info)"
+  weight = 1
+  url  = "posts/newblog" 
   [[menu.main]]
   name = "Über mich"
   weight = 2
